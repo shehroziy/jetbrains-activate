@@ -1,5 +1,7 @@
 # jetbrains-activate
 
+<p>kodni activate code degan joyga taylash kerak va internetingizni o'chirib qo'ying</p>
+
 ### copy
 
 ```
